@@ -1,10 +1,10 @@
 import telebot
 import requests
 
-weather_key = '456d34629ab92f038d044cefbe858463'
+weather_key = ''
 
 # Ваш токен, который вы получили при регистрации бота
-TOKEN = '6066420729:AAHvZPs9ZSUHxGYVHum1MLIgdDPo6Hjw8go'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # Кнопки для выбора действий
